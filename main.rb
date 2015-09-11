@@ -35,6 +35,18 @@ class Main
 
 
 
+  def check_set(a, b, c)
+
+
+
+
+  end
+
+
+
+
+
+
 end
 
 
@@ -56,3 +68,4 @@ class Card
   create_deck
 
 end
+
